@@ -2,6 +2,36 @@
 
 [![LeetCode Logo](./image/leetcode-logo.png)](https://leetcode.com/)
 
+<section align="center">
+    <span>
+        <img alt="Python Badge" src="https://img.shields.io/badge/python-transparent?style=for-the-badge&logo=python&logoColor=fff&color=4584b6">
+    </span>
+    <span>
+        <img alt="Java Badge" src="https://img.shields.io/badge/java-transparent?style=for-the-badge&logo=java&logoColor=fff&color=ED8B00">
+    </span>
+    <span>
+        <img alt="Rust Badge" src="https://img.shields.io/badge/rust-transparent?style=for-the-badge&logo=rust&color=CE412B">
+    </span>
+    <span>
+        <img alt="C Badge" src="https://img.shields.io/badge/c-transparent?style=for-the-badge&logo=c&logoColor=fff&color=659AD2">
+    </span>
+    <span>
+        <img alt="C++ Badge" src="https://img.shields.io/badge/c%2B%2B-transparent?style=for-the-badge&logo=c%2B%2B&logoColor=fff&color=00599C">
+    </span>
+    <span>
+        <img alt="C# Badge" src="https://img.shields.io/badge/c%23-transparent?style=for-the-badge&logo=c%23&logoColor=fff&color=9179E4">
+    </span>
+    <span>
+        <img alt="Swift Badge" src="https://img.shields.io/badge/swift-transparent?style=for-the-badge&logo=swift&logoColor=fff&color=%23F05138">
+    </span>
+    <span>
+        <img alt="Kotlin Badge" src="https://img.shields.io/badge/kotlin-transparent?style=for-the-badge&logo=kotlin&logoColor=fff&color=%237F52FF">
+    </span>
+    <span>
+        <img alt="Dart Badge" src="https://img.shields.io/badge/dart-transparent?style=for-the-badge&logo=dart&logoColor=fff&color=%230175C2">
+    </span>
+</section>
+
 ## 📋 Introduction
 
 This repository serves as my personal space for collecting and storing various problem solutions I've practiced from the [LeetCode](https://leetcode.com/) platform. Its primary goal is to track my development, showcase my skills, and share my unique problem-solving approaches. Please note, this repository does NOT contain all content from [LeetCode](https://leetcode.com/).
