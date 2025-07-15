@@ -81,6 +81,33 @@ This Table of Contents primarily focuses on [problem-solving](https://leetcode.c
 
 > Note: This repository represents a curated selection of [problems](https://leetcode.com/problemset/database/), [interviews](https://leetcode.com/explore/interview/), and [learns](https://leetcode.com/explore/learn/) and doesn't encompass the entire [LeetCode](https://leetcode.com/) platform.
 
+## 📁 Problem
+
+| Project Name | Description | Level | Directory |
+| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------- | :---------------------- |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | | `Easy` | [Open](.) |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | | `Medium` | [Open](.) |
+
+You can click [here](.) to see more Problem projects.
+
+## 📁 Interview
+
+| Project Name | Description | Level | Directory |
+| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------- | :---------------------- |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | | `Easy` | [Open](.) |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | | `Medium` | [Open](.) |
+
+You can click [here](.) to see more Problem projects.
+
+## 📁 Learn
+
+| Project Name | Description | Level | Directory |
+| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------- | :---------------------- |
+| [Two Sum](https://leetcode.com/problems/two-sum/) | | `Easy` | [Open](.) |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | | `Medium` | [Open](.) |
+
+You can click [here](.) to see more Problem projects.
+
 ---
 
 ## 🙏 Thank You, [LeetCode](https://leetcode.com/)
